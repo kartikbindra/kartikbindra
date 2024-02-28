@@ -1,7 +1,7 @@
 Hi 👋 My name is Kartik Bindra
 ==============================
 
-Web Developer and Designer
+Web Developer and Designer✨
 --------------------------
 
 Enthusiastic fresher pursuing a Bachelor of Technology(B. Tech) in Computer Science from Delhi Technological University (formerly DCE). Driven by a deep interest in coding, **Web Development** and logic building along with a keen eye for graphic designing and **UI/UX Design**. I'm really looking forward to honing my soft as well as my professional skills. Through my journey, I aspire to contribute to the ever-evolving tech industry, making a meaningful impact with my creative problem-solving abilities and unwavering dedication to excellence.
