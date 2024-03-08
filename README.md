@@ -29,3 +29,6 @@ Enthusiastic fresher pursuing a Bachelor of Technology(B. Tech) in Computer Scie
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/kartikbindra"><img src="https://github-readme-stats.vercel.app/api?username=kartikbindra&show_icons=true&hide=stars,issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="kartikbindra's GitHub stats" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikbindra&label=Profile%20views&color=0e75b6&style=flat" alt="kartikbindra" /> </p>
+
