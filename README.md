@@ -30,10 +30,6 @@ Enthusiastic fresher pursuing a Bachelor of Technology(B. Tech) in Computer Scie
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=kartikbindra&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikbindra&label=Profile%20views&color=0e75b6&style=flat" alt="kartikbindra" /> </p>
 
 
