@@ -1,7 +1,7 @@
-Hi 👋 My name is Kartik Bindra
+Hi 👋 I'm Kartik Bindra
 ==============================
 
-Web Developer and Designer✨
+Ful-Stack Web Developer✨
 --------------------------
 
 Enthusiastic fresher pursuing a Bachelor of Technology(B. Tech) in Computer Science from Delhi Technological University (formerly DCE). Driven by a deep interest in coding, **Web Development** and logic building along with a keen eye for graphic designing and **UI/UX Design**. I'm really looking forward to honing my soft as well as my professional skills. Through my journey, I aspire to contribute to the ever-evolving tech industry, making a meaningful impact with my creative problem-solving abilities and unwavering dedication to excellence.
@@ -9,8 +9,8 @@ Enthusiastic fresher pursuing a Bachelor of Technology(B. Tech) in Computer Scie
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [bindrakartik64@gmail.com](mailto:bindrakartik64@gmail.com)
 * 🚀  I'm currently working on [QuantaMind](http://github.com/HitG010/QuantaMind)
-* 🧠  I'm learning Database, SQL, MongoDB, Firebase
-* 🤝  I'm open to collaborating on Web Development and Design Projects
+* 🧠  I'm learning Next.js, Blockchain, Solidity, Hyperledger Fabric
+* 🤝  I'm open to collaborating on Web Development, Blockchain and Design Projects
 
 ### Skills
 
