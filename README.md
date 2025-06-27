@@ -12,7 +12,7 @@ Hi 👋 I'm Kartik Bindra
 
 Know more about me here (`Portfolio Website`): <a href="https://kartikbindra.tech">https://kartikbindra.tech</a>
 
-### Tech Profiles & Social Accounts 
+### Let's Connect!
 <div align="center">
 <a href="https://github.com/kartikbindra" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
