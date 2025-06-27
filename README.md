@@ -17,20 +17,20 @@ Know more about me here (`Portfolio Website`): <a href="https://kartikbindra.tec
 <a href="https://github.com/kartikbindra" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/@bindrakartik" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/kartik-bindra" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/u/Kartik_Bindra" target="_blank">
-<img src=https://img.shields.io/badge/leetcode-yellow.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=LeetCode style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/leetcode-black.svg?&style=for-the-badge&logo=leetcode alt=LeetCode style="margin-bottom: 5px;" />
 </a>  
 <a href="https://scholar.google.com/citations?user=N3fn-18AAAAJ&hl=en" target="_blank">
 <img src=https://img.shields.io/badge/googlescholar-blue.svg?&style=for-the-badge&logo=googlescholar&logoColor=white alt=GoogleScholar style="margin-bottom: 5px;" />
 </a>  
+<a href="https://x.com/KartikB68116" target="_blank">
+<img src=https://img.shields.io/badge/twitter-black.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.behance.net/kartikbindra" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/behance-white.svg?&style=for-the-badge&logo=behance&logoColor=black alt=behance style="margin-bottom: 5px;" />
 </a>  
 <a href="https://hashnode.com/@kartikbindra" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
