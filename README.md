@@ -1,6 +1,7 @@
+![Intro_Banner](/kb_linkedinbanner.png)
+
 Hi 👋 I'm Kartik Bindra
 --------------------------
-
 ### About Me
 
 - 🎓 I'm a passionate CS undergrad actively exploring the frontiers of **AI/ML**, **Web3**, and **Full Stack Development**.
