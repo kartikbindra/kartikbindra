@@ -10,7 +10,7 @@ Hi 👋 I'm Kartik Bindra
 - 👨‍💻 **Knight (1846 rating)** @ LeetCode; Proficient in Data Structures & Algorithms
 - 📄 Published researcher: Published research paper in Springer's Signal, Image & Video Processing Journal (SIViP 2025) - <a href="https://link.springer.com/article/10.1007/s11760-025-04183-8">_"HyperSwin: preventing deepfake proliferation with swin-efficient fusion in a hyperledger ecosystem"_.</a>
 
-Know more about me here (`Portfolio Website`): <a href="https://kartikbindra.tech">https://kartikbindra.tech</a>
+Know more about me here (`Portfolio Website`): <a href="https://kartikbindra.in">https://kartikbindra.in</a>
 
 ### Let's Connect!
 <div align="center">
